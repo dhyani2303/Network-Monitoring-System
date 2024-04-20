@@ -1,0 +1,4 @@
+[2024-04-19 18:39:15.256] [INFO ] [Agent.java:217] The device with ip address 10.20.40.128 has exceeded the the threshold value of the load average of CPU.
+ Load average value : 1.73
+[2024-04-19 18:39:56.625] [ERROR] [Agent.java:217] The device with ip address 10.20.40.227 has exceeded the the threshold value of the load average of CPU.
+ Load average value : 1.16

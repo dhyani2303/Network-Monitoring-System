@@ -1,0 +1,17 @@
+
+
+java:S2589"7Remove this expression which always evaluates to "true"(Å’Ÿıÿÿÿÿ8¶öŒ¿ê1J$fadf05e2-c2be-4fd3-8ceb-18f10c0321dd
+r	java:S106!"+Replace this use of System.out by a logger.(ÿÏèÃûÿÿÿÿ8‰·Œ¿ê1J$869e2c1f-25d2-4280-8510-378a90aa72e2
+r	java:S106#"+Replace this use of System.out by a logger.(¿„Òéùÿÿÿÿ8Š·Œ¿ê1J$93ffe96c-8de7-4e83-9f96-5ad3a8021b19
+m	java:S106%"+Replace this use of System.out by a logger.(è‘Àò8Š·Œ¿ê1J$5f8f3a13-dfb2-4cb5-8d7a-6f5f9d3e5cba
+m	java:S106'"+Replace this use of System.out by a logger.(ıËÄ÷8Š·Œ¿ê1J$e610c427-4d2e-447e-bf18-3841a5f62eff
+m	java:S106)"+Replace this use of System.out by a logger.(‰­Õ™8Š·Œ¿ê1J$40881aba-5699-4500-a874-7bfac9757e5c
+r	java:S106+"+Replace this use of System.out by a logger.(Ù€éŞúÿÿÿÿ8Š·Œ¿ê1J$2cc1f0ce-2478-43ec-8b3b-fa0ae4f965de
+m	java:S106-"+Replace this use of System.out by a logger.(ßáñ¾8Š·Œ¿ê1J$bde71dee-6d50-458d-81ce-e3f473d5d6f0
+m	java:S106/"+Replace this use of System.out by a logger.(¨õİÀ8Š·Œ¿ê1J$d46b11f1-2a0c-4db8-85c7-b1851b7cb5cc
+r	java:S1061"+Replace this use of System.out by a logger.(ÿÏèÃûÿÿÿÿ8Š·Œ¿ê1J$96a9dada-ecd1-47c1-bca5-c4e8860ce554
+l	java:S1063"+Replace this use of System.out by a logger.(İ±Øi8Š·Œ¿ê1J$7f3b67c7-ff48-4bc6-b14b-42e50abc0539
+x
+java:S2209Q"5Change this instance-reference to a static reference.(·‰ç©8Œ·Œ¿ê1J$8df92614-74af-4bb7-b6cf-3270881d6569
+r	java:S106]"+Replace this use of System.out by a logger.(©ªÇşÿÿÿÿÿ8Œ·Œ¿ê1J$b5744519-88e5-4f31-ab7f-cece46221963
+r	java:S106q"+Replace this use of System.out by a logger.(‚„ºèşÿÿÿÿ8ˆù ¿ê1J$97170ce4-f9c1-4d78-9697-dc2e7873dfd7

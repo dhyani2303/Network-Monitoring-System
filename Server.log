@@ -1,0 +1,1473 @@
+[2024-04-04 11:45:09.421] [ERROR] [UserAuthentication.java:99] Parameter index out of range (2 > number of parameters, which is 1).
+[2024-04-04 12:20:05.111] [INFO ] [Login.java:38] User with user_id 3 logged in
+[2024-04-04 12:20:07.382] [INFO ] [DiscoveryProfile.java:102] User with user_id 3 entered viewDiscoveryProfile functionality
+[2024-04-04 12:20:43.227] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 12:21:11.763] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 12:21:11.840] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 12:21:22.222] [INFO ] [Agent.java:23] User with user_id 2 entered into provisioning device
+[2024-04-04 12:25:02.157] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 12:25:28.596] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 12:26:11.319] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 12:27:14.060] [INFO ] [Agent.java:23] User with user_id 2 entered into provisioning device
+[2024-04-04 12:27:23.363] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 12:27:30.192] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 12:27:30.603] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 12:28:23.912] [INFO ] [Agent.java:23] User with user_id 2 entered into provisioning device
+[2024-04-04 12:29:14.993] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 12:29:17.132] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 12:29:17.210] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 12:29:19.081] [INFO ] [Agent.java:23] User with user_id 2 entered into provisioning device
+[2024-04-04 12:30:35.761] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 12:30:37.741] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 12:30:37.811] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 12:30:39.524] [INFO ] [Agent.java:23] User with user_id 2 entered into provisioning device
+[2024-04-04 12:31:05.560] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 12:31:07.564] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 12:31:07.640] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 12:31:09.813] [INFO ] [Agent.java:23] User with user_id 2 entered into provisioning device
+[2024-04-04 12:32:16.574] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 12:32:18.599] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 12:32:18.674] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 12:32:20.358] [INFO ] [Agent.java:23] User with user_id 2 entered into provisioning device
+[2024-04-04 12:33:56.623] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 12:33:58.398] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 12:33:58.476] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 12:34:00.166] [INFO ] [Agent.java:23] User with user_id 2 entered into provisioning device
+[2024-04-04 12:34:52.157] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 12:34:53.816] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 12:34:53.886] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 12:34:56.223] [INFO ] [Agent.java:23] User with user_id 2 entered into provisioning device
+[2024-04-04 12:36:10.058] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 12:36:11.624] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 12:36:11.695] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 12:36:12.155] [INFO ] [Agent.java:23] User with user_id 2 entered into provisioning device
+[2024-04-04 12:58:34.836] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 12:58:36.853] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 12:58:36.929] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 12:58:38.732] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 12:59:45.014] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 12:59:45.051] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 12:59:46.292] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 13:04:10.625] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 13:04:12.190] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 13:04:12.253] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 13:04:14.051] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 13:04:42.850] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 13:04:42.947] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 13:04:45.419] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 13:05:20.944] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 13:05:22.484] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 13:05:22.553] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 13:05:28.805] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 13:06:34.647] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 13:06:36.165] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 13:06:36.232] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 13:06:39.851] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 13:07:14.299] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 13:07:16.093] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 13:07:16.159] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 13:07:17.828] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 13:08:21.888] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 13:08:23.743] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 13:08:23.818] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 13:08:27.613] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 13:11:05.302] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 13:11:13.064] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 13:11:13.132] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 13:11:16.422] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 13:12:05.455] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 13:12:05.494] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 13:12:06.983] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 13:12:17.143] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:11:07.967] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 14:11:10.129] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:11:10.189] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:11:14.607] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:12:20.312] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 14:12:22.356] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:12:22.437] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:12:24.055] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:13:27.137] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 14:13:28.676] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:13:28.742] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:13:30.954] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:13:31.048] [INFO ] [Agent.java:41] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-04 14:15:09.359] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:15:09.401] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:15:11.119] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:15:11.159] [INFO ] [Agent.java:41] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-04 14:17:30.442] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 14:17:32.403] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:17:32.476] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:17:38.842] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:17:38.889] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:17:40.548] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:17:40.590] [INFO ] [Agent.java:41] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-04 14:18:47.558] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 14:18:52.991] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:18:53.057] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:18:54.675] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:18:54.725] [INFO ] [Agent.java:41] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-04 14:18:54.727] [INFO ] [Agent.java:87] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-04 14:18:54.727] [INFO ] [Agent.java:124] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-04 14:18:55.050] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-04 14:18:55.050] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-04 14:18:55.124] [INFO ] [Agent.java:99] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-04 14:19:55.124] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:19:55.204] [INFO ] [Agent.java:41] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-04 14:19:55.205] [INFO ] [Agent.java:87] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-04 14:19:55.205] [INFO ] [Agent.java:124] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-04 14:19:55.557] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-04 14:19:55.558] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-04 14:19:55.612] [INFO ] [Agent.java:99] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-04 14:20:39.111] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 14:20:41.762] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:20:41.830] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:20:42.652] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:20:42.762] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-04 14:20:42.762] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-04 14:20:42.763] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-04 14:20:44.778] [INFO ] [Agent.java:155] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-04 14:20:44.779] [INFO ] [Agent.java:158] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-04 14:20:44.844] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-04 14:20:57.694] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:20:57.729] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:21:10.760] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:21:14.865] [INFO ] [Agent.java:57] User with user_id 2 unable to  discover the device with ipAddress 10.20.40.197
+[2024-04-04 14:21:25.077] [INFO ] [CredentialProfile.java:65] User with user_id 2 entered viewCredentialProfile functionality
+[2024-04-04 14:21:25.111] [INFO ] [CredentialProfile.java:72] User with user_id 2 viewed credential profile
+[2024-04-04 14:21:28.255] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:21:28.285] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:21:30.244] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:21:30.346] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:21:30.347] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:21:30.348] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:21:31.210] [INFO ] [Agent.java:155] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:21:31.211] [INFO ] [Agent.java:158] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:21:31.277] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:21:44.844] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:21:44.961] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:21:44.961] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:21:44.962] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:21:45.752] [INFO ] [Agent.java:155] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:21:45.753] [INFO ] [Agent.java:158] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:21:45.852] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:22:31.278] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:22:31.680] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:22:31.680] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:22:31.680] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:22:32.450] [INFO ] [Agent.java:155] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:22:32.450] [INFO ] [Agent.java:158] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:22:32.489] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:22:45.854] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:22:46.226] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:22:46.226] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:22:46.227] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:22:47.487] [INFO ] [Agent.java:155] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:22:47.488] [INFO ] [Agent.java:158] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:22:47.550] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:23:32.490] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:23:32.610] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:23:32.611] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:23:32.612] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:23:33.192] [INFO ] [Agent.java:155] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:23:33.193] [INFO ] [Agent.java:158] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:23:33.226] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:23:47.550] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:23:47.635] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:23:47.636] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:23:47.636] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:23:48.149] [INFO ] [Agent.java:155] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:23:48.150] [INFO ] [Agent.java:158] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:23:48.192] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:24:33.227] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:24:33.437] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:24:33.438] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:24:33.438] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:24:34.095] [INFO ] [Agent.java:155] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:24:34.095] [INFO ] [Agent.java:158] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:24:34.164] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:24:48.193] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:24:48.793] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:24:48.793] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:24:48.793] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:24:49.483] [INFO ] [Agent.java:155] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:24:49.484] [INFO ] [Agent.java:158] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:24:49.536] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:25:34.165] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:25:34.329] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:25:34.329] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:25:34.329] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:25:34.951] [INFO ] [Agent.java:155] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:25:34.953] [INFO ] [Agent.java:158] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:25:35.059] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:25:49.536] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:25:49.654] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:25:49.655] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:25:49.655] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:25:50.126] [INFO ] [Agent.java:155] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:25:50.126] [INFO ] [Agent.java:158] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:25:50.181] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:26:22.400] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 14:26:24.578] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:26:24.638] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:26:26.349] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:26:26.592] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-04 14:26:26.594] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-04 14:26:26.596] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-04 14:26:27.678] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-04 14:26:27.679] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-04 14:26:27.756] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-04 14:26:29.321] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:26:29.355] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:26:31.226] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:26:31.262] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-04 14:26:31.262] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-04 14:26:31.262] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-04 14:26:31.622] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-04 14:26:31.622] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-04 14:26:31.674] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-04 14:26:33.791] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:26:33.823] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:26:39.437] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:26:39.491] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:26:39.492] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:26:39.492] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:26:40.116] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:26:40.118] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:26:40.166] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:27:46.151] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 14:27:49.734] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:27:49.800] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:27:56.657] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:27:56.744] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-04 14:27:56.744] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-04 14:27:56.745] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-04 14:27:57.408] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-04 14:27:57.410] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-04 14:27:57.510] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-04 14:27:59.752] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:27:59.799] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:28:00.279] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:28:00.356] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-04 14:28:00.357] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-04 14:28:00.357] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-04 14:28:00.645] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-04 14:28:00.646] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-04 14:28:00.683] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-04 14:28:02.557] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:28:02.595] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:28:03.179] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:28:03.279] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:28:03.280] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:28:03.281] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:28:03.835] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:28:03.836] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:28:03.874] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:28:57.510] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:28:57.685] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:28:57.686] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:28:57.688] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:28:58.311] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:28:58.313] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:28:58.411] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:29:00.685] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:29:00.729] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:29:00.730] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:29:00.730] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:29:01.453] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:29:01.455] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:29:01.525] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:29:03.874] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:29:03.956] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:29:03.956] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:29:03.956] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:29:04.460] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:29:04.461] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:29:04.510] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:29:58.412] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:29:58.444] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:29:58.444] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:29:58.444] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:29:59.029] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:29:59.030] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:29:59.065] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:30:01.525] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:30:01.649] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:30:01.650] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:30:01.650] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:30:02.211] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:30:02.211] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:30:02.255] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:30:04.511] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:30:04.563] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:30:04.564] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:30:04.564] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:30:05.089] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:30:05.090] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:30:05.125] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:30:30.469] [INFO ] [LoggedInMenu.java:119] user with user_id 2 logged out
+[2024-04-04 14:32:18.295] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 14:32:21.071] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:32:21.138] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:32:27.578] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:32:27.624] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-04 14:32:27.624] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-04 14:32:27.625] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-04 14:32:27.922] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-04 14:32:27.923] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-04 14:32:27.991] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-04 14:33:27.991] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:33:28.124] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-04 14:33:28.125] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-04 14:33:28.125] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-04 14:33:28.546] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-04 14:33:28.546] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-04 14:33:28.614] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-04 14:33:46.236] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:33:46.272] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:33:47.244] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:33:47.311] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:33:47.311] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:33:47.311] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:33:47.938] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:33:47.940] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:33:48.056] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:34:28.615] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:34:28.671] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:34:28.672] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:34:28.672] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:34:29.526] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:34:29.526] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:34:29.571] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:34:48.056] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:34:48.116] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:34:48.116] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:34:48.117] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:34:48.622] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:34:48.623] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:34:48.687] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:35:29.571] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:35:29.634] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:35:29.634] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:35:29.634] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:35:30.483] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:35:30.483] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:35:30.507] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:35:48.688] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:35:48.747] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-04 14:35:48.747] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-04 14:35:48.747] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-04 14:35:49.546] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-04 14:35:49.548] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-04 14:35:49.663] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-04 14:37:18.192] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 14:37:21.601] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:37:21.668] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:37:24.418] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:37:24.468] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-04 14:37:24.468] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-04 14:37:24.468] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-04 14:37:24.750] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-04 14:37:24.750] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-04 14:37:24.818] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-04 14:38:24.819] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:38:24.878] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-04 14:38:24.878] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-04 14:38:24.878] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-04 14:38:25.177] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-04 14:38:25.177] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-04 14:38:25.229] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-04 14:39:25.231] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:39:25.287] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-04 14:39:25.287] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-04 14:39:25.287] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-04 14:39:25.674] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-04 14:39:25.677] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-04 14:39:25.731] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-04 14:44:59.413] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-04 14:45:01.847] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:45:01.980] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:45:04.541] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:45:04.621] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-04 14:45:04.622] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-04 14:45:04.622] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-04 14:45:05.052] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-04 14:45:05.052] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-04 14:45:05.128] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-04 14:46:05.128] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:46:05.228] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-04 14:46:05.229] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-04 14:46:05.229] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-04 14:46:05.636] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-04 14:46:05.637] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-04 14:46:05.704] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-04 14:47:05.705] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:47:05.764] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-04 14:47:05.764] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-04 14:47:05.764] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-04 14:47:06.045] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-04 14:47:06.045] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-04 14:47:06.097] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-04 14:47:52.560] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-04 14:47:52.613] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-04 14:47:56.045] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:47:57.152] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-04 14:47:57.153] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-04 14:47:57.153] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-04 14:47:57.175] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 255
+[2024-04-04 14:47:57.176] [ERROR] [Agent.java:109] User with user_id 2 unable to provision the device with ipAddress 10.20.40.227 because the port was closed
+[2024-04-04 14:48:06.097] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-04 14:48:06.170] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-04 14:48:06.170] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-04 14:48:06.170] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-04 14:48:06.182] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 255
+[2024-04-04 14:48:06.183] [ERROR] [Agent.java:109] User with user_id 2 unable to provision the device with ipAddress 10.20.40.227 because the port was closed
+[2024-04-18 14:41:13.480] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-18 14:42:06.790] [INFO ] [CredentialProfile.java:65] User with user_id 2 entered viewCredentialProfile functionality
+[2024-04-18 14:42:06.851] [INFO ] [CredentialProfile.java:72] User with user_id 2 viewed credential profile
+[2024-04-18 14:42:24.749] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-18 14:42:24.794] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-18 14:42:58.496] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-18 14:42:58.545] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-18 14:43:15.050] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:43:15.189] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-18 14:43:15.190] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-18 14:43:15.190] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-18 14:43:15.875] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-18 14:43:15.876] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-18 14:43:16.003] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-18 14:44:16.004] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:44:16.070] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-18 14:44:16.070] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-18 14:44:16.071] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-18 14:44:16.609] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-18 14:44:16.610] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-18 14:44:16.646] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-18 14:45:04.037] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-18 14:45:04.072] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-18 14:45:07.176] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:45:07.223] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 14:45:07.224] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 14:45:07.224] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 14:45:07.677] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 14:45:07.678] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 14:45:07.714] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-18 14:45:16.646] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:45:16.705] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 14:45:16.706] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 14:45:16.706] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 14:45:17.251] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 14:45:17.252] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 14:45:17.303] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-18 14:46:18.983] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-18 14:46:22.542] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-18 14:46:22.611] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-18 14:46:32.995] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-18 14:46:33.043] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-18 14:46:35.847] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:46:35.912] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 14:46:35.912] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 14:46:35.912] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 14:46:36.234] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 14:46:36.235] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 14:46:36.286] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-18 14:47:36.287] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:47:36.360] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 14:47:36.360] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 14:47:36.360] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 14:47:36.674] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 14:47:36.675] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 14:47:36.724] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-18 14:48:36.725] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:48:36.786] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 14:48:36.786] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 14:48:36.786] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 14:48:37.125] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 14:48:37.125] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 14:48:37.160] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-18 14:49:37.160] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:49:37.225] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 14:49:37.225] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 14:49:37.225] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 14:49:37.516] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 14:49:37.516] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 14:49:37.559] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-18 14:50:37.560] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:50:37.612] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 14:50:37.613] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 14:50:37.613] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 14:50:37.900] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 14:50:37.900] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 14:50:37.934] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-18 14:51:37.935] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:51:37.990] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 14:51:37.991] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 14:51:37.991] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 14:51:38.337] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 14:51:38.337] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 14:51:38.368] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-18 14:52:38.368] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:52:38.400] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 14:52:38.401] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 14:52:38.401] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 14:52:38.769] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 14:52:38.770] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 14:52:38.799] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-18 14:53:38.800] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:53:38.826] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 14:53:38.827] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 14:53:38.827] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 14:53:39.097] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 14:53:39.098] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 14:53:39.127] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-18 14:54:39.128] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:54:39.155] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 14:54:39.156] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 14:54:39.156] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 14:54:39.501] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 14:54:39.501] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 14:54:39.531] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-18 14:55:39.532] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:55:39.589] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 14:55:39.589] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 14:55:39.589] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 14:55:39.949] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 14:55:39.949] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 14:55:39.978] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-18 14:56:39.979] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:56:40.027] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 14:56:40.027] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 14:56:40.028] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 14:56:40.414] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 14:56:40.414] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 14:56:40.443] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-18 14:57:40.444] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:57:40.504] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 14:57:40.504] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 14:57:40.504] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 14:57:40.841] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 14:57:40.841] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 14:57:40.874] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-18 14:58:40.874] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 14:58:40.911] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 14:58:40.911] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 14:58:40.911] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 14:58:41.196] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 14:58:41.196] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 14:58:41.227] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-18 16:02:40.900] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-18 16:02:44.177] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-18 16:02:44.303] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-18 16:02:46.152] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 16:02:46.337] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-18 16:02:46.338] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-18 16:02:46.338] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-18 16:02:47.110] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-18 16:02:47.112] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-18 16:02:47.245] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-18 16:03:47.245] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 16:03:47.363] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-18 16:03:47.364] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-18 16:03:47.364] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-18 16:03:48.046] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-18 16:03:48.047] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-18 16:03:48.139] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-18 16:04:11.427] [INFO ] [Login.java:38] User with user_id 3 logged in
+[2024-04-18 16:04:13.682] [INFO ] [CredentialProfile.java:65] User with user_id 3 entered viewCredentialProfile functionality
+[2024-04-18 16:04:13.766] [INFO ] [UserCredential.java:125] User with user_id 3 does not have credential profile
+[2024-04-18 16:04:16.955] [INFO ] [DiscoveryProfile.java:23] User with user_id 3 entered createDiscoveryProfile functionality
+[2024-04-18 16:04:17.024] [INFO ] [UserCredential.java:125] User with user_id 3 does not have credential profile
+[2024-04-18 16:04:22.647] [INFO ] [CredentialProfile.java:19] User with user_id 3 entered createCredentialProfile functionality
+[2024-04-18 16:04:34.395] [INFO ] [CredentialProfile.java:52] User with user_id 3 created credential profile
+[2024-04-18 16:04:37.238] [INFO ] [CredentialProfile.java:65] User with user_id 3 entered viewCredentialProfile functionality
+[2024-04-18 16:04:37.286] [INFO ] [CredentialProfile.java:72] User with user_id 3 viewed credential profile
+[2024-04-18 16:04:51.254] [INFO ] [DiscoveryProfile.java:23] User with user_id 3 entered createDiscoveryProfile functionality
+[2024-04-18 16:05:12.127] [INFO ] [DiscoveryProfile.java:79] User with user_id 3 created discovery profile
+[2024-04-18 16:05:14.348] [INFO ] [DiscoveryProfile.java:102] User with user_id 3 entered viewDiscoveryProfile functionality
+[2024-04-18 16:05:14.392] [INFO ] [DiscoveryProfile.java:146] User with user_id 3 viewed discovery profile
+[2024-04-18 16:05:17.155] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-18 16:05:17.251] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 16:05:17.251] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 16:05:17.252] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 16:05:17.635] [INFO ] [Agent.java:154] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 16:05:17.636] [INFO ] [Agent.java:157] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 16:05:17.678] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-18 16:05:58.212] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-18 16:06:00.408] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-18 16:06:00.496] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-18 16:06:02.042] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 16:06:02.244] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-18 16:06:02.244] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-18 16:06:02.244] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-18 16:06:03.020] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-18 16:06:03.023] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-18 16:06:03.168] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-18 16:06:17.679] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-18 16:06:17.752] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 16:06:17.753] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 16:06:17.753] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 16:06:18.243] [INFO ] [Agent.java:154] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 16:06:18.243] [INFO ] [Agent.java:157] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 16:06:18.277] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-18 16:07:03.168] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 16:07:03.256] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-18 16:07:03.256] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-18 16:07:03.257] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-18 16:07:03.733] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-18 16:07:03.734] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-18 16:07:03.784] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-18 16:07:18.278] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-18 16:07:18.388] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 16:07:18.388] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 16:07:18.388] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 16:07:18.750] [INFO ] [Agent.java:154] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 16:07:18.750] [INFO ] [Agent.java:157] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 16:07:18.797] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-18 16:08:03.785] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-18 16:08:03.983] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-18 16:08:03.983] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-18 16:08:03.983] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-18 16:08:04.647] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-18 16:08:04.649] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-18 16:08:04.799] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-18 16:08:18.798] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-18 16:08:18.859] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-18 16:08:18.860] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-18 16:08:18.860] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-18 16:08:19.385] [INFO ] [Agent.java:154] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-18 16:08:19.385] [INFO ] [Agent.java:157] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-18 16:08:19.433] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-18 23:56:55.910] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-18 23:56:58.529] [INFO ] [CredentialProfile.java:19] User with user_id 2 entered createCredentialProfile functionality
+[2024-04-18 23:57:17.996] [INFO ] [CredentialProfile.java:52] User with user_id 2 created credential profile
+[2024-04-18 23:57:57.976] [INFO ] [DiscoveryProfile.java:23] User with user_id 2 entered createDiscoveryProfile functionality
+[2024-04-18 23:58:35.879] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-18 23:58:41.224] [INFO ] [CredentialProfile.java:65] User with user_id 2 entered viewCredentialProfile functionality
+[2024-04-18 23:58:41.325] [INFO ] [CredentialProfile.java:72] User with user_id 2 viewed credential profile
+[2024-04-18 23:58:52.994] [INFO ] [DiscoveryProfile.java:23] User with user_id 2 entered createDiscoveryProfile functionality
+[2024-04-18 23:59:16.470] [INFO ] [DiscoveryProfile.java:91] User with user_id 2 failed to discover the device with ipAddress 10.20.40.129
+[2024-04-19 00:24:00.780] [INFO ] [LoggedInMenu.java:115] user with user_id 2 logged out
+[2024-04-19 00:24:13.965] [INFO ] [Login.java:38] User with user_id 3 logged in
+[2024-04-19 17:24:02.550] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:24:05.012] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:24:05.087] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:24:07.856] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:24:07.910] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:24:07.911] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:24:07.911] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:24:08.329] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:24:08.330] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:24:08.391] [ERROR] [SystemMetrics.java:72] Parameter index out of range (8 > number of parameters, which is 7).
+[2024-04-19 17:24:08.391] [INFO ] [Agent.java:100] Polled data of ipAddress 10.20.40.128 by user_id 2 was not placed in database
+[2024-04-19 17:25:08.392] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:25:08.456] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:25:08.457] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:25:08.457] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:25:08.809] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:25:08.810] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:25:08.845] [ERROR] [SystemMetrics.java:72] Parameter index out of range (8 > number of parameters, which is 7).
+[2024-04-19 17:25:08.845] [INFO ] [Agent.java:100] Polled data of ipAddress 10.20.40.128 by user_id 2 was not placed in database
+[2024-04-19 17:26:08.846] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:26:08.908] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:26:08.909] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:26:08.909] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:26:09.361] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:26:09.362] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:26:09.407] [ERROR] [SystemMetrics.java:72] Parameter index out of range (8 > number of parameters, which is 7).
+[2024-04-19 17:26:09.407] [INFO ] [Agent.java:100] Polled data of ipAddress 10.20.40.128 by user_id 2 was not placed in database
+[2024-04-19 17:26:52.775] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:26:55.382] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:26:55.475] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:26:58.364] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:26:58.414] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:26:58.415] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:26:58.415] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:26:58.769] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:26:58.770] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:26:58.825] [ERROR] [SystemMetrics.java:72] No value specified for parameter 12
+[2024-04-19 17:26:58.825] [INFO ] [Agent.java:100] Polled data of ipAddress 10.20.40.128 by user_id 2 was not placed in database
+[2024-04-19 17:27:09.408] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:27:09.527] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:27:09.527] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:27:09.528] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:27:09.998] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:27:09.998] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:27:10.049] [ERROR] [SystemMetrics.java:72] Parameter index out of range (8 > number of parameters, which is 7).
+[2024-04-19 17:27:10.050] [INFO ] [Agent.java:100] Polled data of ipAddress 10.20.40.128 by user_id 2 was not placed in database
+[2024-04-19 17:27:58.826] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:27:58.970] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:27:58.970] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:27:58.971] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:27:59.330] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:27:59.330] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:27:59.370] [ERROR] [SystemMetrics.java:72] No value specified for parameter 12
+[2024-04-19 17:27:59.371] [INFO ] [Agent.java:100] Polled data of ipAddress 10.20.40.128 by user_id 2 was not placed in database
+[2024-04-19 17:28:10.050] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:28:10.162] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:28:10.163] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:28:10.164] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:28:10.601] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:28:10.601] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:28:10.632] [ERROR] [SystemMetrics.java:72] Parameter index out of range (8 > number of parameters, which is 7).
+[2024-04-19 17:28:10.632] [INFO ] [Agent.java:100] Polled data of ipAddress 10.20.40.128 by user_id 2 was not placed in database
+[2024-04-19 17:28:32.395] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:28:34.577] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:28:34.641] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:28:37.625] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:28:37.682] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:28:37.682] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:28:37.683] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:28:38.070] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:28:38.070] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:28:38.148] [ERROR] [SystemMetrics.java:74] Unknown column 'free_swapedmemory' in 'field list'
+[2024-04-19 17:28:38.149] [INFO ] [Agent.java:100] Polled data of ipAddress 10.20.40.128 by user_id 2 was not placed in database
+[2024-04-19 17:29:31.081] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:29:33.274] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:29:33.341] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:29:38.235] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:29:38.280] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:29:38.281] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:29:38.281] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:29:38.637] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:29:38.638] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:29:38.700] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-19 17:30:38.701] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:30:38.731] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:30:38.731] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:30:38.732] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:30:39.099] [INFO ] [Agent.java:154] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:30:39.100] [INFO ] [Agent.java:157] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:30:39.143] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-19 17:34:18.407] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:34:20.246] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:34:20.326] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:34:22.676] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:34:22.732] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:34:22.732] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:34:22.733] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:36:11.149] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:36:12.819] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:36:12.911] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:36:15.342] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:36:15.393] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:36:15.394] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:36:15.394] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:37:25.973] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:37:27.673] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:37:27.805] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:37:28.718] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:37:28.836] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:37:28.837] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:37:28.837] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:39:36.848] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:39:38.844] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:39:38.921] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:39:39.439] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:39:39.514] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:39:39.514] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:39:39.514] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:40:35.354] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:40:38.893] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:40:38.974] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:40:41.745] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:40:41.792] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:40:41.792] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:40:41.792] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:42:23.632] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:42:25.183] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:42:25.244] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:42:26.701] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:42:26.763] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:42:26.763] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:42:26.763] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:43:46.893] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:43:48.327] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:43:48.472] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:43:50.691] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:43:50.744] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:43:50.744] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:43:50.744] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:44:40.608] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:44:42.328] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:44:42.416] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:44:43.985] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:44:44.084] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:44:44.085] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:44:44.085] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:44:44.449] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:44:44.450] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:44:44.507] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-19 17:45:16.771] [INFO ] [Login.java:38] User with user_id 3 logged in
+[2024-04-19 17:45:22.707] [INFO ] [DiscoveryProfile.java:102] User with user_id 3 entered viewDiscoveryProfile functionality
+[2024-04-19 17:45:22.778] [INFO ] [DiscoveryProfile.java:146] User with user_id 3 viewed discovery profile
+[2024-04-19 17:45:37.870] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 17:45:37.940] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:45:37.941] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:45:37.941] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:45:38.299] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:45:38.300] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:45:38.365] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 17:45:46.134] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:45:47.867] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:45:47.982] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:45:50.437] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:45:50.529] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 17:45:50.529] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 17:45:50.529] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 17:45:51.339] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 17:45:51.340] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 17:45:51.478] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 17:46:38.366] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 17:46:38.400] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:46:38.401] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:46:38.401] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:46:38.854] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:46:38.855] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:46:38.912] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 17:46:51.479] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:46:51.632] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 17:46:51.633] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 17:46:51.633] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 17:46:52.256] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 17:46:52.257] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 17:46:52.334] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 17:48:12.041] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:48:14.412] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:48:14.495] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:48:18.059] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:48:18.193] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 17:48:18.194] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 17:48:18.195] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 17:48:18.767] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 17:48:18.768] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 17:48:18.847] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 17:48:34.148] [INFO ] [Login.java:38] User with user_id 3 logged in
+[2024-04-19 17:48:36.235] [INFO ] [DiscoveryProfile.java:102] User with user_id 3 entered viewDiscoveryProfile functionality
+[2024-04-19 17:48:36.321] [INFO ] [DiscoveryProfile.java:146] User with user_id 3 viewed discovery profile
+[2024-04-19 17:48:38.501] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 17:48:38.554] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:48:38.555] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:48:38.555] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:48:38.966] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:48:38.967] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:48:39.042] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 17:49:18.848] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:49:18.911] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 17:49:18.911] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 17:49:18.912] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 17:49:19.385] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 17:49:19.387] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 17:49:19.443] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 17:49:39.043] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 17:49:39.104] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:49:39.105] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:49:39.105] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:49:39.470] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:49:39.471] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:49:39.518] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 17:50:19.444] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:50:19.552] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 17:50:19.552] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 17:50:19.552] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 17:50:20.188] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 17:50:20.190] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 17:50:20.328] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 17:50:39.519] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 17:50:39.556] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:50:39.556] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:50:39.556] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:50:39.946] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:50:39.946] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:50:40.005] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 17:51:14.668] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:51:14.705] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:51:20.329] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:51:20.449] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 17:51:20.450] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 17:51:20.451] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 17:51:20.995] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 17:51:20.996] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 17:51:21.056] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 17:51:24.385] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:51:24.445] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 17:51:24.445] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 17:51:24.445] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 17:51:25.033] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 17:51:25.035] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 17:51:25.112] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 17:51:40.005] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 17:51:40.030] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:51:40.031] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:51:40.031] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:51:40.325] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:51:40.326] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:51:40.364] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 17:52:21.057] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:52:21.175] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 17:52:21.176] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 17:52:21.177] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 17:52:21.741] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 17:52:21.741] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 17:52:21.766] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 17:52:25.112] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:52:25.266] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 17:52:25.267] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 17:52:25.268] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 17:52:25.844] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 17:52:25.845] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 17:52:25.892] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 17:52:40.364] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 17:52:40.400] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:52:40.400] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:52:40.401] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:52:40.779] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:52:40.779] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:52:40.814] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 17:53:17.289] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:53:19.185] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:53:19.266] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:53:24.360] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:53:24.460] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 17:53:24.461] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 17:53:24.461] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 17:53:25.127] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 17:53:25.128] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 17:53:25.199] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 17:53:40.815] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 17:53:40.872] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:53:40.872] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:53:40.872] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:53:41.183] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:53:41.183] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:53:41.217] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 17:53:52.874] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 17:53:54.806] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 17:53:54.893] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 17:53:56.465] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:53:56.537] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 17:53:56.537] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 17:53:56.537] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 17:53:57.289] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 17:53:57.290] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 17:53:57.420] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 17:54:25.200] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:54:25.278] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 17:54:25.279] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 17:54:25.279] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 17:54:25.935] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 17:54:25.936] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 17:54:25.990] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 17:54:41.218] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 17:54:41.243] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:54:41.244] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:54:41.244] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:54:41.618] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:54:41.618] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:54:41.652] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 17:54:57.421] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:54:57.537] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 17:54:57.538] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 17:54:57.538] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 17:54:58.403] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 17:54:58.403] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 17:54:58.436] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 17:55:25.990] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:55:26.109] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 17:55:26.109] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 17:55:26.110] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 17:55:26.753] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 17:55:26.754] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 17:55:26.897] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 17:55:41.652] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 17:55:41.767] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:55:41.767] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:55:41.768] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:55:42.236] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:55:42.236] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:55:42.287] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 17:55:58.436] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:55:58.569] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 17:55:58.569] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 17:55:58.569] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 17:55:59.169] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 17:55:59.169] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 17:55:59.210] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 17:56:26.898] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:56:26.948] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 17:56:26.948] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 17:56:26.949] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 17:56:27.594] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 17:56:27.595] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 17:56:27.651] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 17:56:42.288] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 17:56:42.429] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:56:42.430] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:56:42.430] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:56:42.791] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:56:42.792] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:56:42.833] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 17:56:59.210] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:56:59.407] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 17:56:59.407] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 17:56:59.407] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 17:57:00.205] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 17:57:00.206] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 17:57:00.341] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 17:57:27.651] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:57:27.765] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 17:57:27.765] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 17:57:27.766] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 17:57:28.547] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 17:57:28.548] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 17:57:28.639] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 17:57:42.834] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 17:57:42.917] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:57:42.917] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:57:42.918] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:57:43.307] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:57:43.307] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:57:43.340] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 17:58:00.342] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:58:00.436] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 17:58:00.436] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 17:58:00.436] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 17:58:01.009] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 17:58:01.010] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 17:58:01.061] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 17:58:28.639] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:58:28.692] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 17:58:28.693] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 17:58:28.693] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 17:58:29.290] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 17:58:29.292] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 17:58:29.347] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 17:58:43.341] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 17:58:43.423] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:58:43.424] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:58:43.424] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:58:43.807] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:58:43.807] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:58:43.840] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 17:59:01.062] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:59:01.153] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 17:59:01.154] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 17:59:01.154] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 17:59:01.738] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 17:59:01.740] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 17:59:01.789] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 17:59:29.348] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 17:59:29.409] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 17:59:29.410] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 17:59:29.410] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 17:59:29.989] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 17:59:29.990] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 17:59:30.017] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 17:59:43.841] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 17:59:43.897] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 17:59:43.898] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 17:59:43.898] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 17:59:44.252] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 17:59:44.252] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 17:59:44.283] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 18:00:01.790] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:00:01.873] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 18:00:01.874] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 18:00:01.875] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 18:00:02.556] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 18:00:02.557] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 18:00:02.619] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 18:00:30.018] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:00:30.137] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:00:30.139] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:00:30.140] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:00:30.715] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:00:30.716] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:00:30.749] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:00:44.284] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 18:00:44.332] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 18:00:44.332] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 18:00:44.332] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 18:00:44.777] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 18:00:44.778] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 18:00:44.809] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 18:01:02.620] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:01:02.700] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 18:01:02.701] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 18:01:02.701] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 18:01:03.250] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 18:01:03.251] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 18:01:03.304] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 18:01:30.750] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:01:30.858] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:01:30.858] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:01:30.858] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:01:31.306] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:01:31.307] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:01:31.368] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:01:44.809] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 18:01:44.844] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 18:01:44.844] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 18:01:44.844] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 18:01:45.267] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 18:01:45.268] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 18:01:45.298] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 18:02:03.304] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:02:03.425] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 18:02:03.426] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 18:02:03.428] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 18:02:04.107] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 18:02:04.108] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 18:02:04.155] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 18:02:31.369] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:02:31.489] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:02:31.490] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:02:31.491] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:02:32.133] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:02:32.134] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:02:32.168] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:02:45.299] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 18:02:45.374] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 18:02:45.374] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 18:02:45.375] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 18:02:45.730] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 18:02:45.731] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 18:02:45.780] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 18:03:04.155] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:03:04.250] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 18:03:04.251] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 18:03:04.252] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 18:03:04.831] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 18:03:04.832] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 18:03:04.896] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 18:03:32.168] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:03:32.306] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:03:32.307] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:03:32.308] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:03:32.970] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:03:32.970] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:03:33.031] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:03:45.781] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 18:03:45.863] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 18:03:45.864] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 18:03:45.864] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 18:03:46.252] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 18:03:46.252] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 18:03:46.281] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 18:04:04.897] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:04:05.182] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 18:04:05.183] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 18:04:05.185] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 18:04:05.856] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 18:04:05.857] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 18:04:05.886] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 18:04:33.031] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:04:33.338] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:04:33.339] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:04:33.339] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:04:33.923] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:04:33.924] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:04:33.978] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:04:46.281] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 18:04:46.314] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 18:04:46.315] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 18:04:46.315] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 18:04:46.724] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 18:04:46.724] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 18:04:46.757] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 18:05:05.886] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:05:06.006] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 18:05:06.006] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 18:05:06.006] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 18:05:06.767] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 18:05:06.767] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 18:05:06.808] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 18:05:33.979] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:05:34.065] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:05:34.066] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:05:34.067] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:05:34.644] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:05:34.645] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:05:34.700] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:05:46.758] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 18:05:46.789] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 18:05:46.789] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 18:05:46.789] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 18:05:47.159] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 18:05:47.159] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 18:05:47.189] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 18:06:06.808] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:06:06.869] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 18:06:06.869] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 18:06:06.869] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 18:06:07.634] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 18:06:07.635] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 18:06:07.691] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 18:06:34.700] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:06:34.790] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:06:34.790] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:06:34.790] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:06:35.439] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:06:35.440] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:06:35.486] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:06:47.189] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 18:06:47.208] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 18:06:47.208] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 18:06:47.208] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 18:06:47.562] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 18:06:47.563] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 18:06:47.587] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 18:07:07.691] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:07:07.760] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 18:07:07.760] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 18:07:07.760] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 18:07:08.517] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 18:07:08.518] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 18:07:08.562] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 18:07:35.486] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:07:35.618] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:07:35.619] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:07:35.620] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:07:36.285] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:07:36.286] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:07:36.338] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:07:47.587] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 18:07:47.636] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 18:07:47.636] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 18:07:47.636] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 18:07:48.043] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 18:07:48.043] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 18:07:48.070] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 18:08:08.563] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:08:08.689] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 18:08:08.689] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 18:08:08.689] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 18:08:09.412] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 18:08:09.412] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 18:08:09.464] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 18:08:36.339] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:08:36.440] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:08:36.440] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:08:36.440] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:08:37.025] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:08:37.026] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:08:37.051] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:08:48.071] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 18:08:48.125] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 18:08:48.126] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 18:08:48.126] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 18:08:48.485] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 18:08:48.485] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 18:08:48.511] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 18:09:09.465] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:09:09.510] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 18:09:09.510] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 18:09:09.510] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 18:09:10.283] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 18:09:10.284] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 18:09:10.375] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 18:09:37.052] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:09:37.170] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:09:37.170] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:09:37.170] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:09:37.755] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:09:37.757] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:09:37.838] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:09:48.512] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 18:09:48.564] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 18:09:48.564] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 18:09:48.564] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 18:09:48.923] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 18:09:48.924] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 18:09:48.956] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 18:10:10.377] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:10:10.447] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 18:10:10.447] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 18:10:10.447] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 18:10:10.981] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 18:10:10.983] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 18:10:11.025] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 18:10:37.838] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:10:37.992] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:10:37.993] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:10:37.994] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:10:38.657] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:10:38.658] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:10:38.713] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:10:48.957] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 18:10:49.019] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 18:10:49.019] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 18:10:49.019] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 18:10:49.456] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 18:10:49.456] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 18:10:49.483] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 18:11:11.025] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:11:11.170] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.239
+[2024-04-19 18:11:11.170] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.239
+[2024-04-19 18:11:11.170] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.239
+[2024-04-19 18:11:11.650] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.239
+[2024-04-19 18:11:11.652] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.239 and exited with exitCode 0
+[2024-04-19 18:11:11.707] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.239 by user_id 2 has been placed in database
+[2024-04-19 18:11:38.713] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:11:38.817] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:11:38.818] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:11:38.818] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:11:39.475] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:11:39.476] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:11:39.550] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:11:49.483] [INFO ] [Agent.java:24] User with user_id 3 entered into provisioning device
+[2024-04-19 18:11:49.516] [INFO ] [Agent.java:40] User with user_id 3 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 18:11:49.516] [INFO ] [Agent.java:83] User with user_id 3 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 18:11:49.516] [INFO ] [Agent.java:120] User with user_id 3 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 18:11:49.899] [INFO ] [Agent.java:160] User with user_id 3 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 18:11:49.899] [INFO ] [Agent.java:163] User with user_id 3 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 18:11:49.949] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.128 by user_id 3 has been placed in database
+[2024-04-19 18:17:24.959] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:17:26.931] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:17:26.999] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:17:28.304] [INFO ] [Agent.java:28] User with user_id 2 entered into provisioning device
+[2024-04-19 18:17:28.366] [INFO ] [Agent.java:44] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 18:17:28.366] [INFO ] [Agent.java:87] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 18:17:28.366] [INFO ] [Agent.java:124] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 18:19:23.977] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:19:25.444] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:19:25.524] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:19:28.123] [INFO ] [Agent.java:28] User with user_id 2 entered into provisioning device
+[2024-04-19 18:19:28.680] [INFO ] [Agent.java:44] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:19:28.682] [INFO ] [Agent.java:87] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:19:28.683] [INFO ] [Agent.java:124] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:21:12.993] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:21:14.666] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:21:14.758] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:21:15.886] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:21:16.000] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:21:16.001] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:21:16.001] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:21:16.442] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:21:16.444] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:21:16.583] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:22:30.247] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:22:31.618] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:22:31.734] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:22:33.637] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:22:33.900] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:22:33.902] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:22:33.904] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:24:06.779] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:24:08.437] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:24:08.510] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:24:11.445] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:24:11.693] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:24:11.694] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:24:11.695] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:25:01.004] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:25:02.753] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:25:02.818] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:25:04.584] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:25:04.638] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:25:04.640] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:25:04.641] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:25:05.109] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:25:05.111] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:25:05.171] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:25:31.171] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:25:32.792] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:25:32.894] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:25:34.256] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:25:34.430] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:25:34.431] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:25:34.431] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:27:04.229] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:27:05.717] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:27:05.827] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:27:22.851] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:27:22.980] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:27:22.981] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:27:22.981] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:27:23.559] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:27:23.561] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:27:23.712] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:28:18.051] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:28:19.537] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:28:19.608] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:28:20.364] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:28:20.497] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:28:20.498] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:28:20.498] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:28:21.180] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:28:21.182] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:28:21.265] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:29:34.002] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:29:35.827] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:29:35.913] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:29:37.026] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:29:37.330] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:29:37.332] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:29:37.334] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:30:24.526] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:30:26.054] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:30:26.135] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:30:27.816] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:30:27.879] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:30:27.879] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:30:27.879] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:32:57.793] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:32:59.383] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:32:59.480] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:33:01.641] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:33:01.728] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:33:01.728] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:33:01.729] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:33:43.875] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:33:45.988] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:33:46.054] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:33:47.619] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:33:47.668] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 18:33:47.668] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 18:33:47.669] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 18:34:41.633] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:34:43.842] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:34:43.921] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:34:45.528] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:34:45.569] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:34:45.569] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:34:45.569] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:36:11.047] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:36:12.688] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:36:12.766] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:36:18.275] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:36:18.326] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:36:18.326] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:36:18.326] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:37:09.862] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:37:11.301] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:37:11.411] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:37:12.053] [INFO ] [Agent.java:24] User with user_id 2 entered into provisioning device
+[2024-04-19 18:37:12.206] [INFO ] [Agent.java:40] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:37:12.207] [INFO ] [Agent.java:83] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:37:12.208] [INFO ] [Agent.java:120] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:37:12.793] [INFO ] [Agent.java:223] The device with ip address 10.20.40.227 has exceeded the the threshold value of the load average of CPU.
+ Load average value : 1.22
+[2024-04-19 18:37:12.794] [INFO ] [Agent.java:160] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:37:12.795] [INFO ] [Agent.java:163] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:37:12.899] [INFO ] [Agent.java:95] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
+[2024-04-19 18:39:09.179] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:39:10.962] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:39:11.061] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:39:14.890] [INFO ] [Agent.java:28] User with user_id 2 entered into provisioning device
+[2024-04-19 18:39:14.958] [INFO ] [Agent.java:44] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.128
+[2024-04-19 18:39:14.958] [INFO ] [Agent.java:87] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.128
+[2024-04-19 18:39:14.958] [INFO ] [Agent.java:124] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.128
+[2024-04-19 18:39:15.257] [INFO ] [Agent.java:164] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.128
+[2024-04-19 18:39:15.257] [INFO ] [Agent.java:167] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.128 and exited with exitCode 0
+[2024-04-19 18:39:15.309] [INFO ] [Agent.java:99] Polled data of ipAddress 10.20.40.128 by user_id 2 has been placed in database
+[2024-04-19 18:39:52.098] [INFO ] [Login.java:38] User with user_id 2 logged in
+[2024-04-19 18:39:53.879] [INFO ] [DiscoveryProfile.java:102] User with user_id 2 entered viewDiscoveryProfile functionality
+[2024-04-19 18:39:53.959] [INFO ] [DiscoveryProfile.java:146] User with user_id 2 viewed discovery profile
+[2024-04-19 18:39:55.934] [INFO ] [Agent.java:28] User with user_id 2 entered into provisioning device
+[2024-04-19 18:39:56.055] [INFO ] [Agent.java:44] User with user_id 2 successfully discovered the device with ipAddress 10.20.40.227
+[2024-04-19 18:39:56.057] [INFO ] [Agent.java:87] User with user_id 2 entered monitoring for the device with ipAddress 10.20.40.227
+[2024-04-19 18:39:56.058] [INFO ] [Agent.java:124] User with user_id 2 entered polling data for the device with ipAddress 10.20.40.227
+[2024-04-19 18:39:56.626] [INFO ] [Agent.java:164] User with user_id 2 successfully polled data of the device with ipAddress 10.20.40.227
+[2024-04-19 18:39:56.628] [INFO ] [Agent.java:167] User with user_id 2 unable to poll data of the device with ipAddress 10.20.40.227 and exited with exitCode 0
+[2024-04-19 18:39:56.734] [INFO ] [Agent.java:99] Polled data of ipAddress 10.20.40.227 by user_id 2 has been placed in database
