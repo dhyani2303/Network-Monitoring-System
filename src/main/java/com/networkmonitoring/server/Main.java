@@ -19,7 +19,7 @@ public class Main
 
         System.out.println(SEPARATOR_LINE);
 
-        System.out.println(TAB_LINE + TAB_LINE +  "Welcome to Motadata");
+        System.out.println(TAB_LINE + TAB_LINE + "Welcome to Motadata");
 
         while(!isValid)
         {
@@ -76,8 +76,7 @@ public class Main
                         }
                     }
                 }
-            }
-            catch(NullPointerException e)
+            } catch(NullPointerException e)
             {
                 System.out.println("Enter number only");
             }

@@ -127,7 +127,7 @@ public class Agent
         {
             var storeData = new ArrayList<String>();
 
-            var command = " vmstat -s | grep 'context' | awk {'print $1'} ; mpstat | tail -1 | awk {'print $5,$7,$14'}; uptime | awk {'print $10'}; free -m | awk {'print $2,$3,$4'} | tail -2";
+            var command = " vmstat -s | grep 'context' | awk {'print $1'} ; mpstat | tail -1 | awk {'print $5,$7,$14'}; uptime | awk {'print $NF'}; free -m | awk {'print $2,$3,$4'} | tail -2";
 
             ProcessBuilder processBuilder = new ProcessBuilder("sshpass", "-p", resultOfVerification.getString(PASSWORD), "ssh", "-o", "StrictHostKeyChecking=no", resultOfVerification.getString(HOSTNAME) + "@" + resultOfVerification.getString(IP_ADDRESS), command);
 
